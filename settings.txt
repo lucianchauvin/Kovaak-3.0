@@ -1,0 +1,12 @@
+sensmulti 1.2
+radius 5
+backgroundcolor #808080
+lineccolor #FF0000
+targetcolor black
+clicksound sounds/kick-deep.ogg
+volume .5
+linestatus True
+linestatdashed True
+fullscreen False
+resolution 1024 576
+crosshairimage crosshairs/plus.png
