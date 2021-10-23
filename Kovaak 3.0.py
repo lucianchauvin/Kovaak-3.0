@@ -1,4 +1,4 @@
-#### Made by Lucian Chauvin (dont take my code and say its yours cunt)####
+####                        Made by Lucian Chauvin                    ####
 ####                       lucianchauvin@gmail.com                    ####
 
 from tkinter import*
